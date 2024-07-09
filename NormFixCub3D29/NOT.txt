@@ -1,0 +1,19 @@
+11111111
+100000N0
+11111111
+
+seg fault düzeldi
+
+
+pathfider 
+1111111111
+1100000011
+
+
+
+1100000001
+1111111111
+
+error halledildi
+
+tmp uzun satıra göre yer açıldı calloc  yapıldı
